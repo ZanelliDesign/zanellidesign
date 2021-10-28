@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá! Eu sou Marcelo Zanelli - Designer Freelancer da Zanelli Design
 
-<!--
-**ZanelliDesign/zanellidesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Hoje trabalho como: Designer Gráfico, Ilustrador e Front-End.
+- 🌱 Atualmente estou aprendendo: 
+- Java - Lógica de Programação e Algoritmos;
+- Certificação de testes CTFL-ISTQB / BSTQB;
+- Testes funcionais com Selenium WebDrive: Do básico ao Grid;
+- MySQL - Banco de Dados usando SQL;
+- BDD com Cucumber em JAVA;
+- Testando API Reset com REST-assured.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
